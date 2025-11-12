@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body         {background-color: sandybrown}
+#wrapper2 {background-color:white; margin: 0px auto;width:900px;}
+#wrapper  {background-color:white; margin: 0px auto;width:950px;}
+#logo {float:left;}
+#Icon {float:right;}
+#Navigation {clear:both;word-spacing:20px;border-top: solid black 1px;border-bottom: solid black 1px; margin:5px 0px 5px 0px; padding: 15px 0px 15px 0px;}
+#Navigation a {font-family:Arial; font-size:20px;text-decoration-line: none; }
+#Navigation a:link {color:#000;}
+#Navigation a:hover {color:#c60;}
+
+#Title  {color:#c60;border-bottom:solid black 1px;}
+
+#LeftContent {float:left; width:600px;}
+#LeftContent p {font-family: Arial; font-size:12px;margin:10px 0px 10px 0px;}
+#LeftContent img {border:solid black 1px;padding:5px;width: 100px}
+#LeftContent {float:left;width:600px}
+#LeftContent p {font-family: Arial;font-size: 15px; margin: 10px 0px 10px 0px}
+
+
+#RightContent {float:right; width:200px;}
+#RightContent h4 {color:#c60; }
+
+
+#box1 {float: left; border-top: maroon solid 10px; background-color: grey; width:250px;margin-left:40px; margin-top:20px; margin-bottom: 20px}
+#box1 h2 {padding-left: 50px; font-family: Arial}
+#box1 p {padding-left: 20px; font-family: Arial}
+#box1 a {padding-left: 30px; font-family: Arial}
+#box1 a:link {color: #000;}
+#box1 a:hover {color: #c60;}
+
+#box2 {float:left; border-top: maroon solid 10px; background-color: grey; width:250px;}
+#box2 h2 {padding-left: 50px; font-family: Arial}
+#box2 p {padding-left: 20px; font-family: Arial}
+#box2 a {padding-left: 30px; font-family: Arial}
+#box2 a:link {color: #000;}
+#box2 a:hover {color: #c60;}
+
+#box3 {float:left; border-top: maroon solid 10px; background-color: grey; width:250px;}
+#box3 h2 {padding-left: 50px; font-family: Arial}
+#box3 p {padding-left: 20px; font-family: Arial}
+#box3 a {padding-left: 30px; font-family: Arial}
+#box3 a:link {color: #000;}
+#box3 a:hover {color: #c60;}
+#Footer {clear:both;padding:10px 50px 10px 350px; border-top:solid black 1px}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body         {background-color: sandybrown}
+#wrapper2 {background-color:white; margin: 0px auto;width:900px;}
+#wrapper  {background-color:white; margin: 0px auto;width:950px;}
+#logo {float:left;}
+#Icon {float:right;}
+#Navigation {clear:both;word-spacing:20px;border-top: solid black 1px;border-bottom: solid black 1px; margin:5px 0px 5px 0px; padding: 15px 0px 15px 0px;}
+#Navigation a {font-family:Arial; font-size:20px;text-decoration-line: none; }
+#Navigation a:link {color:#000;}
+#Navigation a:hover {color:#c60;}
+
+#Title  {color:#c60;border-bottom:solid black 1px;}
+
+#LeftContent {float:left; width:600px;}
+
+#LeftContent p {font-family: Arial; font-size:12px;margin:10px 0px 10px 0px;}
+
+#LeftContent img {border:solid black 1px;padding:5px;}
+
+#RightContent {float:right; width:200px;}
+#RightContent h4 {color:#c60; }
+
+#Foster {clear:both;padding:10px 50px 10px 550px; border-top:solid black 1px}
